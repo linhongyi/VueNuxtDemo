@@ -1,0 +1,72 @@
+[
+  {
+    "name": "componentUsage",
+    "path": "/componentUsage",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/componentUsage.vue",
+    "chunkName": "pages/componentUsage",
+    "_name": "_f096455a"
+  },
+  {
+    "name": "editor",
+    "path": "/editor",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/editor.vue",
+    "chunkName": "pages/editor",
+    "_name": "_8b491ac8"
+  },
+  {
+    "name": "eventTest",
+    "path": "/eventTest",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/eventTest.vue",
+    "chunkName": "pages/eventTest",
+    "_name": "_2636326d"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_602cae3b"
+  },
+  {
+    "name": "layoutTest",
+    "path": "/layoutTest",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/layoutTest.vue",
+    "chunkName": "pages/layoutTest",
+    "_name": "_1ff7ad0b"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_ec9facec"
+  },
+  {
+    "name": "pageApi",
+    "path": "/pageApi",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/pageApi.vue",
+    "chunkName": "pages/pageApi",
+    "_name": "_59a61bec"
+  },
+  {
+    "name": "records",
+    "path": "/records",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/records.vue",
+    "chunkName": "pages/records",
+    "_name": "_1e7365a3"
+  },
+  {
+    "name": "todos",
+    "path": "/todos",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/todos.vue",
+    "chunkName": "pages/todos",
+    "_name": "_d0b70de4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/Howard/Documents/GitHub/VueNuxtDemo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7feef31a"
+  }
+]
